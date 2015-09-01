@@ -1,0 +1,12 @@
+{
+  "words": [
+    {
+      "word": "Coca Cola",
+      "image": "cocacola/index.png"
+    },
+    {
+      "word": "Red Bull",
+      "image": "redbull/index.png"
+    }
+  ]
+}
